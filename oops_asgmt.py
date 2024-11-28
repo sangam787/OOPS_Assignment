@@ -12,10 +12,10 @@ Provide an example of each.
 5. What are the three types of access modifiers in Python? How are they denoted? 
 
 6. Describe the five types of inheritance in Python. Provide a simple 
-example of multiple inheritance. 
+example of multiple inheritance.
 
 7. What is the Method Resolution Order (MRO) in Python? How can you 
-retrieve it programmatically? 
+retrieve it programmatically?
 
 8. Create an abstract base class 'Shape' with an abstract method area(). 
 Then create two subclasses "Circle' and 'Rectangle that implement the 'area() method. 
@@ -35,6 +35,5 @@ How does Python resolve it?
 
 14. Write a class method that keeps track of the number of instances created from a class. 
 
-15. Implement a static method in a class that checks if a given year is a leap year.
 
 """
